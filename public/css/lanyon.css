@@ -38,6 +38,7 @@
 html,
 body {
   font-family: "Apple SD Gothic Neo", "notokr-demlight", "Malgun Gothic", "MalgunGothic" !important;
+  font-weight: 200;
   overflow-x: hidden;
 }
 
