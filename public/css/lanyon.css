@@ -314,7 +314,7 @@ a.sidebar-nav-item:focus {
 .post {
   font-family: "Noto Sans KR";
   font-weight: 100;
-  font-size: .775rem; /* 15px */
+  font-size: 12px; /* 15px */
   margin-bottom: 4em;
 }
 
