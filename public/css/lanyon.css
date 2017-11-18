@@ -318,7 +318,7 @@ a.sidebar-nav-item:focus {
 .post {
   font-family: "notosansgothic", "Malgun Gothic", "MalgunGothic", sans-serif, !important;
   font-weight: 200;
-  font-size: 0.8em; /* 15px */
+  font-size: 1.0em; /* 15px */
   color: #333333;
   margin-bottom: 4em;
   letter-spacing: .025rem; 
@@ -334,6 +334,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title {
   margin-top: 0;
+  font-size: 1.8em; /* Lee */
 }
 
 /* Meta data line below post title */
