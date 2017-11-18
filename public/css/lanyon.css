@@ -312,7 +312,7 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
-  font-family: "Noto Sans KR", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans KR";
   font-weight: 100;
   margin-bottom: 4em;
 }
