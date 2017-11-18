@@ -43,13 +43,14 @@ body {
 #@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 #@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 @import url(https://github.com/tanji3000/tanji3000.github.io/blob/master/_font/notokr-demilight.css);
+@import url(https://github.com/tanji3000/tanji3000.github.io/blob/master/_font/notosansdisplay-medium-webfont.css);
 
 html {
-  font-family: "notokr-demilight";
+  font-family: "noto_sans_displaymedium", "notokr-demilight";
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "notokr-demilight";
+  font-family: "noto_sans_displaymedium", "notokr-demilight";
   font-weight: 300;
   color: #313131;
   letter-spacing: -.025rem;
@@ -152,7 +153,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "notokr-demilight";
+  font-family: "noto_sans_displaymedium", "notokr-demilight";
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -313,9 +314,9 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
-  font-family: "notokr-demilight";
+  font-family: "noto_sans_displaymedium", "notokr-demilight";
   font-weight: 100;
-  font-size: 15px; /* 15px */
+  font-size: 17px; /* 15px */
   margin-bottom: 4em;
 }
 
@@ -375,7 +376,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "notokr-demilight";
+  font-family: "noto_sans_displaymedium", "notokr-demilight";
   color: #ccc;
   text-align: center;
 }
