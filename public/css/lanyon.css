@@ -53,7 +53,7 @@ html {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Apple SD Gothic Neo", "notokr-demlight", "Malgun Gothic", "MalgunGothic" !important;
   color: #313131;
-  letter-spacing: -.025rem;
+/*  letter-spacing: -.025rem; */
 }
 
 
