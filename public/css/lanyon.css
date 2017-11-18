@@ -43,7 +43,7 @@ body {
 #@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 #@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 @import url(https://github.com/tanji3000/tanji3000.github.io/blob/master/_font/notokr-demilight.css);
-@import url(https://github.com/tanji3000/tanji3000.github.io/blob/master/_font/notosansdisplay-medium-webfont.css);
+@import url(https://github.com/tanji3000/tanji3000.github.io/blob/master/_font/notosansdisplay-medium.css);
 
 html {
   font-family: "noto_sans_displaymedium", "notokr-demilight", Fallback, sans-serif;
