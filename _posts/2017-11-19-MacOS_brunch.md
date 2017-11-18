@@ -19,6 +19,8 @@ Tags:   Mac, 맥, MacOS, OS, 운영체제
 
 SSH를 통한 연결을 위해서는 Terminal이 필요하다. MacOS에는 편리하지는 않지만 기본적으로 'Terminal'이라는 이름의 App을 제공한다. 필자는 iTerm이라는 App을 주로 사용하는데, 무료인 데다가 기본 App에 비해서 유용한 기능들을 많이 제공하기 때문에, 처음 Mac을 사용하려 하는 사람들에게 추천한다.
 
+![Forest]({{ site.baseurl }}/img/R1280x0.jpeg)
+
 <br>
 #### X-forwarding
 위와 같은 텍스트 환경에서도 또 다른 창에 GUI 소프트웨어를 열 수 있는 방법이 있다. 슈퍼컴퓨터에서. GUI를 지원하는 소프트웨어들은 X-forwarding을 이용하여 Teminal 환경에서도 GUI를 열 수 있게 해주는데, MacOS에서는 Xquartz라는 X-forwarding 소프트웨어를 제공해준다. 물론 Windows에서도 Xming이라는 유명한 무료 소프트웨어가 있긴 하지만, Xquartz에 비해서 매우 느리고 불안정하여 Terminal에서 상당수의 GUI 소프트웨어를 열 수 없는 문제가 있다.
