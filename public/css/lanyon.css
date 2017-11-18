@@ -50,10 +50,16 @@ body {
 
 html {
   font-family: "Apple SD Gothic Neo", "notokr-demlight", "Malgun Gothic", "MalgunGothic" !important;
+  font-weight: 200;
+  overflow-x: hidden;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Apple SD Gothic Neo", "notokr-demlight", "Malgun Gothic", "MalgunGothic" !important;
+  font-weight: 200;
+  overflow-x: hidden;
+  -webkit-font-smoothing: subpixel-antialiased;
   color: #313131;
 /*  letter-spacing: -.025rem; */
 }
@@ -315,7 +321,6 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
-  font-family: "Apple SD Gothic Neo", "notokr-demlight", "Malgun Gothic", "MalgunGothic" !important;
   font-size: 17px; /* 15px */
   margin-bottom: 4em;
 }
