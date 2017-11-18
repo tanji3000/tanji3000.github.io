@@ -37,25 +37,26 @@
 /* Prevent scroll on narrow devices */
 html,
 body {
+  font-family: "notokr-demlight", "Malgun Gothic", "MalgunGothic", sans-serif, !important;
   overflow-x: hidden;
 }
+
+/*  * {-webkit-font-smoothing: antialiased;}  */
 
 #@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 #@import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
+@import url(//fonts.googleapis.com/earlyaccess/notosansgothic.css);
 @import url(https://github.com/tanji3000/tanji3000.github.io/blob/master/_font/notokr-demilight.css);
-#@import url(https://github.com/tanji3000/tanji3000.github.io/blob/master/_font/notosansdisplay-medium.css);
 
 html {
-  font-family: "Apple SD Gothic Neo", "notokr-demlight", "Malgun Gothic", "MalgunGothic" !important;
+  font-family: "notosansgothic", "Malgun Gothic", "MalgunGothic", sans-serif, !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Apple SD Gothic Neo", "notokr-demlight", "Malgun Gothic", "MalgunGothic" !important;
-  font-weight: 200;
-  overflow-x: hidden;
-  -webkit-font-smoothing: subpixel-antialiased;
+  font-family: "notosansgothic", "Malgun Gothic", "MalgunGothic", sans-serif, !important;
+  font-weight: normal;
   color: #313131;
-/*  letter-spacing: -.025rem; */
+  letter-spacing: -.025rem; 
 }
 
 
@@ -154,7 +155,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "Apple SD Gothic Neo", "notokr-demlight", "Malgun Gothic", "MalgunGothic" !important;
+  font-family: "notosansgothic", "Malgun Gothic", "MalgunGothic" !important;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -315,8 +316,12 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
-  font-size: 17px; /* 15px */
+  font-family: "notosansgothic", "Malgun Gothic", "MalgunGothic", sans-serif, !important;
+  font-weight: 200;
+  font-size: 0.8em; /* 15px */
+  color: #333333;
   margin-bottom: 4em;
+  letter-spacing: .025rem; 
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
@@ -325,7 +330,6 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #303030;
-  -webkit-font-smoothing: subpixel-antialiased;
 }
 .page-title,
 .post-title {
@@ -377,7 +381,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "Apple SD Gothic Neo", "notokr-demlight", "Malgun Gothic", "MalgunGothic" !important;
+  font-family: "notosansgothic", "Malgun Gothic", "MalgunGothic", sans-serif, !important;
   color: #ccc;
   text-align: center;
 }
