@@ -37,6 +37,7 @@
 /* Prevent scroll on narrow devices */
 html,
 body {
+  font-family: "noto_sans_displaymedium", "notokr-demilight", fallback, sans-serif;
   overflow-x: hidden;
 }
 
@@ -50,7 +51,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "noto_sans_displaymedium", "notokr-demilight", Fallback, sans-serif;
+  font-family: "noto_sans_displaymedium", "notokr-demilight", fallback, sans-serif;
   font-weight: 300;
   color: #313131;
   letter-spacing: -.025rem;
