@@ -323,6 +323,7 @@ a.sidebar-nav-item:focus {
 .post {
   font-size: 17px; /* 15px */
   margin-bottom: 4em;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 /* Blog post or page title */
@@ -330,6 +331,7 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #303030;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 .page-title,
 .post-title {
