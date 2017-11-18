@@ -315,7 +315,7 @@ a.sidebar-nav-item:focus {
 .post {
   font-family: "Noto Sans Gothic", sans-serif;
   font-weight: 100;
-  font-size: 12px; /* 15px */
+  font-size: 15px; /* 15px */
   margin-bottom: 4em;
 }
 
