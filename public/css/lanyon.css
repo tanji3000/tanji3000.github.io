@@ -38,6 +38,8 @@
 html,
 body {
   font-family: "noto_sans_displaymedium", "notokr-demilight", fallback, sans-serif;
+  font-weight: 300;
+  color: #313131;
   overflow-x: hidden;
 }
 
