@@ -40,6 +40,7 @@ body {
   font-family: "Apple SD Gothic Neo", "notokr-demlight", "Malgun Gothic", "MalgunGothic" !important;
   font-weight: 200;
   overflow-x: hidden;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 #@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
