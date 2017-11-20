@@ -318,9 +318,7 @@ a.sidebar-nav-item:focus {
 .post {
   font-family: "notosansgothic", "Malgun Gothic", "MalgunGothic", sans-serif, !important;
   font-weight: 200;
-  /* font-size: 0.74rem; /* 15px */ */
   font-size: 0.70rem; /* 15px */
-  /*font-size: 0.74em; /* 15px */ */
   color: #333333;
   margin-bottom: 4em;
   margin-left: 0.5em;
