@@ -318,14 +318,17 @@ a.sidebar-nav-item:focus {
 .post {
   font-family: "notosansgothic", "Malgun Gothic", "MalgunGothic", sans-serif, !important;
   font-weight: 200;
-  font-size: 0.74em; /* 15px */
+  /* font-size: 0.74rem; /* 15px */ */
+  font-size: 11px; /* 15px */
+  /*font-size: 0.74em; /* 15px */ */
   color: #333333;
   margin-bottom: 4em;
   margin-left: 0.5em;
   margin-right: 0.5em;
-  letter-spacing: .050rem; 
+  letter-spacing: .065rem; 
   line-height: 2.0em;
-  -webkit-font-smoothing: subpixel-antialiased;
+  -webkit-font-smoothing: antialiased;
+
 }
 
 /* Blog post or page title */
