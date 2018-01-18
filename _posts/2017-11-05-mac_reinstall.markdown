@@ -4,7 +4,7 @@ title:  맥 처음 구매 했을 때의 OS로 돌아가는 방법
 date:   2017-11-05
 author: Tanji
 Tags:   Mac, 재설치, 복구
-categories: Dummy
+categories: Mac
 ---
 
 2015년 MacBook 12인치 컴퓨터를 최근에 High Sierra로 업그레이드를 했더니, 부팅이 매우 느리다. 시스템 종료도 느리다. 사실 MacOS가 그 동안 업그레이드 되면서 부팅속도는 점점 더 느려지는 것 같은 느낌이다. 잠자기에서 깨어날 때에도 매우 버벅이는게 Mac의 장점이 점점더 사라지는 것 같아서 안타깝다.
