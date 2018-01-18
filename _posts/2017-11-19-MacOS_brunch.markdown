@@ -2,6 +2,7 @@
 layout: post
 title:  나와 비슷한 사람들이 쓰는 운영체제
 date:   2017-11-19
+author: Tanji
 Tags:   Mac, 맥, MacOS, OS, 운영체제
 categories: Dummy
 ---
