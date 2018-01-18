@@ -2,6 +2,7 @@
 layout: post
 title:  맥 처음 구매 했을 때의 OS로 돌아가는 방법
 date:   2017-11-05
+author: Tanji
 Tags:   Mac, 재설치, 복구
 categories: Dummy
 ---
