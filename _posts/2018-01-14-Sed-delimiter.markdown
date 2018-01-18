@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  [sed] 구분 기호로 분리하기
+title:  "[sed] 구분 기호로 분리하기"
 date:   2018-01-14
 Tags:   Linux, Sed, delimiter
 categories: Dummy
