@@ -9,10 +9,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
+title: 실험실 탄지
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+email: tanji3000@gmail.com
+name: Nodo Lee
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -22,7 +22,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tanji3000.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+#logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
