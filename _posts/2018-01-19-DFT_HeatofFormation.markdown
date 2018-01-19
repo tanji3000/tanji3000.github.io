@@ -3,7 +3,7 @@ layout: post
 title:  "DFT 이용한 Formation Energy 예측에 관한 좋은 연구"
 date:   2018-01-19 18:18:00
 author: Tanji
-Tags:   DFT, Sed, delimiter
+Tags:   DFT, Formation Energy, Heat of Formation, oxide, Phase Stability
 categories: Research
 ---
 
