@@ -3,6 +3,7 @@ layout: post
 title:  "리눅스 파일내용에 ^M 없애는 방법"
 date:   2012-06-27
 author: Tanji
+tag: Linux, dos2unix, ^M
 categories: Shell
 ---
 
