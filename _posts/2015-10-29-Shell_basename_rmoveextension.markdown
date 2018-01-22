@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[shell script] 파일 확장자 없애기"
+title:  "[basename] 파일 확장자 없애기"
 date:   2015-10-29
 author: Tanji
 Tags:   Mac, 맥 어드레스
