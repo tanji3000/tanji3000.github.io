@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  sed 첫줄에 내용 추가
+title:  "[sed] 첫줄에 내용 추가"
 date:   2017-03-09
 author: Tanji
 Tags:   linux, sed
