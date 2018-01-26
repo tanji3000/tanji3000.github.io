@@ -28,3 +28,5 @@ SSH를 통한 연결을 위해서는 Terminal이 필요하다. MacOS에는 편�
 <br>
 #### X-forwarding
 위와 같은 텍스트 환경에서도 또 다른 창에 GUI 소프트웨어를 열 수 있는 방법이 있다. 슈퍼컴퓨터에서. GUI를 지원하는 소프트웨어들은 X-forwarding을 이용하여 Teminal 환경에서도 GUI를 열 수 있게 해주는데, MacOS에서는 Xquartz라는 X-forwarding 소프트웨어를 제공해준다. 물론 Windows에서도 Xming이라는 유명한 무료 소프트웨어가 있긴 하지만, Xquartz에 비해서 매우 느리고 불안정하여 Terminal에서 상당수의 GUI 소프트웨어를 열 수 없는 문제가 있다.
+
+#### X-forwarding
