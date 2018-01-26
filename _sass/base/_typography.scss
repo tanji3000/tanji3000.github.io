@@ -54,7 +54,7 @@ a {
   &:hover {
     color: darken($action-color, 10%);
     text-decoration: underline;
-    border-bottom-width: 1px;
+    border-bottom-width: 5px;
   }
 
   &:active,
