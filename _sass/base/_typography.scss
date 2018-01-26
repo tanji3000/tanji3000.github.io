@@ -3,14 +3,13 @@ body {
   -webkit-font-smoothing: antialiased;
   color: $base-font-color;
   font-family: $base-font-family;
-  //font-weight: 100;
   font-size: $base-font-size;
   speak: none;
   font-style: normal;
-  font-weight: normal;
+  font-weight: 100;
   font-variant: normal;
   text-transform: none;
-  line-height: 1;
+  line-height: $base-line-height;
   //line-height: $base-line-height;
 }
 
@@ -60,7 +59,7 @@ a {
   &:hover {
     color: darken($action-color, 10%);
     text-decoration: underline;
-    border-bottom-width: 5px;
+    border-bottom-width: 20px;
   }
 
   &:active,
