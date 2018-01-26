@@ -1,14 +1,9 @@
 body {
   @include font-feature-settings("kern", "liga", "pnum");
-  text-rendering: geometricPrecision;
   color: $base-font-color;
   font-family: $base-font-family;
   font-size: $base-font-size;
-  speak: none;
-  font-style: normal;
   font-weight: 100;
-  font-variant: normal;
-  text-transform: none;
   line-height: $base-line-height;
 }
 
