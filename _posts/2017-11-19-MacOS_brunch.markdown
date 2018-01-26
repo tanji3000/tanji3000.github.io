@@ -21,7 +21,7 @@ categories: Mac
 
 SSH를 통한 연결을 위해서는 Terminal이 필요하다. MacOS에는 편리하지는 않지만 기본적으로 'Terminal'이라는 이름의 App을 제공한다. 필자는 iTerm이라는 App을 주로 사용하는데, 무료인 데다가 기본 App에 비해서 유용한 기능들을 많이 제공하기 때문에, 처음 Mac을 사용하려 하는 사람들에게 추천한다.
 
-<p><img src="/img/R1280x0.jpeg" alt="Smiley face" img style="margin-left: -1.5em; margin-right: 1.5em"> This is some text. This is some text. This is some text.</p>
+<p><img src="/img/R1280x0.jpeg" alt="Smiley face" img style="margin-left: -1.5em; margin-right: -1.5em"> This is some text. This is some text. This is some text.</p>
 
 <!--![Forest]({{ site.baseurl }}/img/R1280x0.jpeg)-->
 
