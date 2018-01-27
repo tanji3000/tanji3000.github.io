@@ -26,6 +26,7 @@ SSH를 통한 연결을 위해서는 Terminal이 필요하다. MacOS에는 편�
 하는 사람들에게 추천한다.
 
 <p><img src="/img/R1280x0.png" alt="Smiley face" img style="margin-left: 0; margin-right: 0; width: 100%; height: auto"></p>
+![SSH Terminal]({{ site.url }}/img/R1280x0.png)
 ##### [사진] SSH Terminal 구동 모습 예 (tmux.github.io)
 
 <br>
