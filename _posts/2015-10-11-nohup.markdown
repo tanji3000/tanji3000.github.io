@@ -3,7 +3,7 @@ layout: post
 title:  "백그라운드에서 프로세스 실행하기"
 date:   2015-10-11
 author: Tanji
-tag: Linux, Mac, Background, Run
+Tags: Linux, Mac, Background, Run
 categories: Shell
 ---
 
