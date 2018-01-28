@@ -3,7 +3,7 @@ body {
   color: $base-font-color;
   font-family: $base-font-family;
   font-size: $base-font-size;
-  font-weight: 100;
+  font-weight: lighter;
   line-height: $base-line-height;
 }
 
@@ -44,8 +44,6 @@ h6 {
 
 p {
   margin: 0 0 $small-spacing;
-  font-weight: 100;
-  // Lee
 }
 
 a {
