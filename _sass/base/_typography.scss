@@ -13,14 +13,8 @@ h2,
 h3,
 h4,
 h5,
-h6 {
-  font-family: $heading-font-family;
-  font-size: $base-font-size;
-  font-weight: 300;
-  line-height: $heading-line-height;
-  margin: 0 0 $base-font-size;
-  margin: 0 0 rem($base-font-size);
-}
+h6,
+
 h1 {
 	font-size: modular-scale(2);
 }
@@ -40,7 +34,13 @@ h5 {
     color: gray;
 }
 h6 {
-	font-size: modular-scale(-2);
+  font-family: $heading-font-family;
+  font-size: $base-font-size;
+  font-weight: 200;
+  line-height: $heading-line-height;
+  margin: 0 0 $base-font-size;
+  margin: 0 0 rem($base-font-size);
+  font-size: modular-scale(-2);
 }
 
 p {
