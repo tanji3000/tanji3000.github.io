@@ -250,13 +250,15 @@ pre code.hljs {
 		display: inline;
 		margin: 0;
 		width: 100%;
-		background-position: 50% 50%;
-		background-size: cover;
 	}
 	/*
 	*	Posts
 	*/
 	.post {
+        img {
+            display: inline;
+            margin: 0;
+            width: 100%;
 		ul {
 			margin-bottom: 1em;
 		}
