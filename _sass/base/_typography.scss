@@ -1,5 +1,5 @@
 body {
-  @include font-feature-settings("kern", "liga", "pnum");
+  //@include font-feature-settings("kern", "liga", "pnum");
   //color: $base-font-color;
   color: rgb(51,51,51);
   font-family: $base-font-family;
