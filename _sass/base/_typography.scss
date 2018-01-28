@@ -3,7 +3,7 @@ body {
   //color: $base-font-color;
   color: rgb(51,51,51);
   //font-family: $base-font-family;
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', sans-serif;
   font-size: $base-font-size;
   font-weight: 300;
   line-height: $base-line-height;
@@ -35,7 +35,8 @@ h5 {
     color: gray;
 }
 h6 {
-  font-family: $heading-font-family;
+  font-family: 'Noto Sans KR', sans-serif;
+  //font-family: $heading-font-family;
   font-size: $base-font-size;
   font-weight: 200;
   line-height: $heading-line-height;
