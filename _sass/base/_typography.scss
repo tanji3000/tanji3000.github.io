@@ -2,7 +2,8 @@ body {
   //@include font-feature-settings("kern", "liga", "pnum");
   //color: $base-font-color;
   color: rgb(51,51,51);
-  font-family: $base-font-family;
+  //font-family: $base-font-family;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: $base-font-size;
   font-weight: 300;
   line-height: $base-line-height;
