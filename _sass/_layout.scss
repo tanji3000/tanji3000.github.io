@@ -40,7 +40,7 @@ pre code.hljs {
 .page-divider {
 	$divider-color: $light-gray;
   display: block;
-  width: 50%;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
   border-top: 1px solid $divider-color;
@@ -130,7 +130,7 @@ pre code.hljs {
     }
     img {
       max-height: 2.5em;
-      margin-top: 5.75em;
+      margin-top: 0.75em;
       padding-right: 1em;
     }
     span {
@@ -257,6 +257,7 @@ pre code.hljs {
         img {
             display: inline;
             margin: 0;
+            padding: 0;
             width: 100%;
         }
 		ul {
@@ -271,7 +272,8 @@ pre code.hljs {
 			padding-bottom: 1em;
 		}
 		.post-content {
-			padding: 1em 0;
+			/*padding: 1em 0;*/
+            padding: 0;
 		}
 		.tags {
 			font-size: 0.9em;
