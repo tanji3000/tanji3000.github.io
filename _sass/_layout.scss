@@ -255,13 +255,18 @@ pre code.hljs {
 	/*
 	*	Posts
 	*/
+
+
 	.post {
         img {
             display: inline;
-//            margin: 0;
-//            padding: 0;
-            width: 100%;
-            max-width: 100%;
+            margin-left: 0;
+            margin-right: 0;
+            padding: 0 0;
+            max-width: $max-width;
+            width: 100vw;
+            line-height: 0; /*here*/
+
         }
 		ul {
 			margin-bottom: 1em;
