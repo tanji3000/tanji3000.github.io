@@ -15,7 +15,7 @@ categories: Mac
 #### Mac OS
 맥은 다윈(Darwin)(다윈은 아이폰의 운영체제인 iOS의 뼈대 이기도 하다)이라는 Unix 계열의 커널에 화려한 GUI를 얹어 놓은 운영체제이다. 연제 MacOS Sierra 버전까지 약 18년의 역사를 가지고 있다. MacOS의 GUI 뒤에는 텍스트 환경인 Terminal이 존재한다. 그렇기 때문에 MacOS는 GUI와 Terminal 환경에서 자유롭게 사용할 수 있다. Mac은 주로 전문가들이 사용하는 컴퓨터로 알려져 있다. 맥을 10년 정도 사용해본 나도 그렇게 생각한다. 외국에서는 Mac의 점유율이 정말 높다. 우리나라도 Mac의 보급률은 매우 높아졌다. 하지만, 우리나라에서 Mac을 쓰는 것은 매우 불편하다. ActiveX와 공인인증서 때문이다. 따라서 맥을 사용하는 사람들은 Apple에서 기본적으로 제공하는 부트캠프를 이용해서 Windows 설치해서 멀티 부팅을 해서 사용하거나, Parallels나 VMWare라는 유료 소프트웨어를 구매해서 Mac 구동중에 Windows를 동시에 구동해서 사용한다. 히자만, 이러한 방법들은 매우 번거롭고 복잡하고 빠르고 안정적이지 않다. 그래서 나는 일반인들에게 Mac을 추천하지 않는다. 필자는 맥을 두대 가지고 있는데, 한대에만 Mac에 Windows를 설치가 가끔 사용하는 편이다.
 
-<p><img src="/img/R1280x0.jpeg" alt="Mac"></p>
+<p><img src="/img/R1280x0.jpeg" alt="Mac" style="width: 100%; max-width: 1000px; height: auto;"></p>
 ##### [사진] 저널리스트 Joe Wilcox의 글 'Macs in J Schools' 중에서
 
 <br>
