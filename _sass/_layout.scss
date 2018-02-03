@@ -270,6 +270,7 @@ pre code.hljs {
       margin-left: -50vw;
       margin-right: -50vw;
     }
+
     p, figure {
       margin: 15px 0;
     }
@@ -278,9 +279,16 @@ pre code.hljs {
       color: #999;
     }
 
+    img[src$="#full"] {
+          display: block;
+          width: 100vw;
+          position: relative;
+          left: 50%;
+          right: 50%;
+          margin-left: -50vw;
+          margin-right: -50vw;
+        }
     // Lee Modified
-
-
 
 
 
@@ -295,6 +303,8 @@ pre code.hljs {
 //            margin-right: -33.33%;
 //            position:relative;
         }
+
+
 		ul {
 			margin-bottom: 1em;
 		}
