@@ -255,10 +255,17 @@ pre code.hljs {
 	*/
 	.post {
         img {
+            //display: inline;
+            //margin: 0;
+            //padding: 0;
+            //width: 100%;
+            //width: 100%;
+            //height: 100%;
+            //background-position: center center;
+            //border-radius: 100%;
             display: inline;
-            margin: 0;
-            padding: 0;
-            width: 100%;
+            max-width: none;
+            width: 100vmax;
         }
 		ul {
 			margin-bottom: 1em;
