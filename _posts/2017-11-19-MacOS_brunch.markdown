@@ -17,6 +17,10 @@ categories: Mac
 
 <p><img src="/img/R1280x0.jpeg#full" alt="Mac"></p>
 ##### [사진] 저널리스트 Joe Wilcox의 글 'Macs in J Schools' 중에서
+<pre><code>img[src$=&quot;#full&quot;]{
+	max-width: 100vw;
+}
+</code></pre>
 
 <br>
 #### 슈퍼컴퓨터와 Mac의 OS
