@@ -259,13 +259,16 @@ pre code.hljs {
 
 	.post {
         img {
-            display: inline;
-            margin-left: 0;
-            margin-right: 0;
-            padding: 0 0;
-            max-width: $max-width;
+            //display: table;
+            //margin-left: 0;
+            //margin-right: 0;
+            //padding: 0;
+            margin-left: auto;
+            margin-right: auto;
+            //max-width: 960px;
+            max-width: $desktop;
             width: 100vw;
-            line-height: 0; /*here*/
+            //line-height: 0; /*here*/
 
         }
 		ul {
