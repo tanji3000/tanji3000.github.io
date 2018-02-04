@@ -33,6 +33,14 @@ code {
 	padding: 0 3px;
 }
 
+blockquote {
+    margin: 0 0 1.5em;
+    padding: 0 1.5em;
+    border-left: #3eb0ef 3px solid;
+}
+
+
+
 pre code.hljs {
 	font-size: modular-scale(-1);
 }
