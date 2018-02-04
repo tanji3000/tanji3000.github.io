@@ -38,7 +38,7 @@ jekyll-archives:
   layout: 'archive'
   permalinks:
     category: '/:name/'
-    #  tag: '/tag/:name/'
+      tag: '/tag/:name/'
 
 # Disqus comments
 # disqus_shortname: bencentra
