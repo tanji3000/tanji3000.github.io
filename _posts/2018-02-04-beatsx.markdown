@@ -1,8 +1,9 @@
 ---
 title: BeatsX로 음악듣기
-date: 2018. 2. 4. 오후 6:38
+date: 2018-02-04 18:14:00
 author: Tanji
 categories: 글
+Tags: 음악, 블루투스, 이어폰, 애플, 비츠, BeatsX
 ---
 
 <figure><img src=“/img/beats.png”></figure>
