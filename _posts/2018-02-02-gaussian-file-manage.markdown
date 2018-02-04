@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Gaussian 계산 파일 정리하기
 date: 2018-02-02 18:43:00
 author: Tanji

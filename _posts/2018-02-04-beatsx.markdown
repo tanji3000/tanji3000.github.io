@@ -1,4 +1,5 @@
 ---
+layout: post
 title: BeatsX로 음악듣기
 date: 2018-02-04 18:14:00
 author: Tanji
