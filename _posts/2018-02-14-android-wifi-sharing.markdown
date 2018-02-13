@@ -1,3 +1,10 @@
+---
+layout: post
+title:  Wifi를 공유해서 사용하기
+date:   2018-02-14
+author: Tanji
+Tags:   
+categories: Writing
 
 
 
