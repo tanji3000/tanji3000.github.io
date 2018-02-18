@@ -4,7 +4,7 @@ title:  Wifi를 공유해서 사용하기
 date:   2018-02-14
 author: Tanji
 Tags: G6, 안드로이드, 핫스팟, 와이파이, Wi-Fi
-categories: Writing
+categories: 글
 ---
 
 
