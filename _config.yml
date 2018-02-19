@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: 실험실 탄지
-subtitle: "
+subtitle: "컴퓨터로 일하면서 평범하게 사는 사람입니다."
 email: nodo15@gmail.com
 name: Tanji
 description: >
@@ -34,11 +34,11 @@ highlightjs_theme: "monokai-sublime"
 jekyll-archives:
   enabled:
     - categories
-    - tags
+#    - tags
   layout: 'archive'
   permalinks:
     category: '/category/:name/'
-         tag: '/tag/:name/'
+ #        tag: '/tags/:name/'
 
 # Disqus comments
 # disqus_shortname: bencentra
