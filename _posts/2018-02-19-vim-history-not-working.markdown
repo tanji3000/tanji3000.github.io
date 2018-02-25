@@ -7,6 +7,14 @@ Tags:   vim, vi editor, history, 명령어
 categories: Shell
 ---
 
+
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7714225086578734",
+    enable_page_level_ads: true
+  });
+</script>
+
 vim가 실행중일 때 언제 어디서나 `:` (콜론) 키를 누르면 명령을 내릴 준비가 됩니다.
 
 리눅스 shell과 거의 흡사하게 정말 유용한 명령어가 많은데요. 이러한 명령어 또한 리눅스 command line에서와 마찬가지로 키보드 방향키 위, 아래를 누르면 기존에 사용한 명령어 목록들이 나타나게 됩니다.
