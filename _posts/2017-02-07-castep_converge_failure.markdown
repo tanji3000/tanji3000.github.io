@@ -3,8 +3,8 @@ layout: post
 title:  CASTEP Convergence Failure
 date:   2017-02-05
 Tags:   DFT, CASTEP, SCF, Converge
-Author: 탄지
-Categories: Research
+author: Tanji
+categories: Research
 ---
 
 CASTEP에는 Khon-Sham 방정식을 풀기 위해 두개의 solver가 있다. density mixing (DM) 과 ensemble density functional theory (EDFT). DM 방법은 기본설정값이다. 설정하기 나름이지만 이전의 몇 step의 density들을 정해진 비율대로 mixing 해가면서 ground-state를 찾기 때문에 상대적으로 빠르지만 불안정해서 수렴이 안되는 경우가 많이 있다. EDFT 방법은 처음에 추정한 기저상태의 파동함수를 바로 계산하고 ground-state에 가까워지도록 계속 업데이트를 한다. 당연히 계산량이 많기 때문에 상대적으로 느리지만 안정적이다.
