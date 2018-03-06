@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  [R] 설치부터 기본까지
-date:   2018-02-19 19:14:00
+date:   2018-03-06 19:14:00
 author: Tanji
 Tags:   R, 설치, R-Studio
 categories: R
 ---
+
 
 
 https://www.rstudio.com/
@@ -29,6 +30,8 @@ library(ggplot2)
 > ggplot(data=becker_pbesol_total,
 +        mapping = aes(x=Latt_vol, y=band_gap, col=lg)) +
 +        geom_point(colour = c("black","blue", "red")[becker_pbesol_total$Crystal.System])
+
+```
 
 ```
 ggplot(data=pbesol, mapping = aes(x=X.radius, y=band_gap, col=A.site)) + geom_point(alpha=0.5)
