@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  [R] 설치부터 기본까지
-date:   2018-03-06 19:14:00
+title:  R, 설치부터 기본까지
+date: 2018-03-06 19:14:00
 author: Tanji
 Tags:   R, 설치, R-Studio
 categories: R
 ---
-
 
 
 https://www.rstudio.com/
