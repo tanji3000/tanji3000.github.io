@@ -4,7 +4,7 @@ title:  [R] 설치부터 기본까지
 date:   2018-02-19 19:14:00
 author: Tanji
 Tags:   R, 설치, R-Studio
-categories: Shell
+categories: R
 ---
 
 
