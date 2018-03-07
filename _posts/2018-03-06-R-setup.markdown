@@ -20,13 +20,13 @@ library(ggplot2)
 ```
 
 ```
-> ggplot(data=becker_pbesol_total,
+> ggplot(data=pbesol,
 +        mapping = aes(x=Latt_vol, y=band_gap, col=Crystal.System)) +
 +        geom_point()
 ```
 
 ```
-> ggplot(data=becker_pbesol_total,
+> ggplot(data=pbesol,
 +        mapping = aes(x=Latt_vol, y=band_gap, col=lg)) +
 +        geom_point(colour = c("black","blue", "red")[becker_pbesol_total$Crystal.System])
 
@@ -35,3 +35,12 @@ library(ggplot2)
 ```
 ggplot(data=pbesol, mapping = aes(x=X.radius, y=band_gap, col=A.site)) + geom_point(alpha=0.5)
 ```
+
+subset (Plot with Filtered Data)
+
+```
+library(ggplot2)
+ggplot(subset(dat,ID %in% c("P1" , "P3"))) + 
+         geom_line(aes(Value1, Value2, group=ID, colour=ID))
+```
+
