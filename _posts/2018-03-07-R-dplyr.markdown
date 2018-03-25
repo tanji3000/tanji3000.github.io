@@ -19,23 +19,12 @@ dplyr 패키지는 R을 활용하는 사람들은 반드시 필요한 도구인 
 
 햣
 
-```{r}
+```r
 library(ggplot2)
 ```
 
-```{r}
-> ggplot(data=pbesol,
-+        mapping = aes(x=Latt_vol, y=band_gap, col=Crystal.System)) +
-+        geom_point()
-```
-
-```{r}
-> ggplot(data=pbesol,
-+        mapping = aes(x=Latt_vol, y=band_gap, col=lg)) +
-+        geom_point(colour = c("black","blue", "red")[becker_pbesol_total$Crystal.System])
-
-```
-
-```{r}
-ggplot(data=pbesol, mapping = aes(x=X.radius, y=band_gap, col=A.site)) + geom_point(alpha=0.5)
+```r
+ggplot(data=pbesol,
+       mapping = aes(x=Latt_vol, y=band_gap, col=Crystal.System)) +
+       geom_point()
 ```
