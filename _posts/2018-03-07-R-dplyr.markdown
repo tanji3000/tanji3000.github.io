@@ -19,11 +19,11 @@ dplyr 패키지는 R을 활용하는 사람들은 반드시 필요한 도구인 
 
 
 
-```r
+```R
 library(ggplot2)
 ```
 
-```r
+```R
 ggplot(data=pbesol,
        mapping = aes(x=Latt_vol, y=band_gap, col=Crystal.System)) +
        geom_point()
