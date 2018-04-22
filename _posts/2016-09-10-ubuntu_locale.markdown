@@ -4,8 +4,9 @@ title:  Ubuntu - Locale 변경 방법
 date:   2016-09-10 20:56:23
 author: Tanji
 Tags:   Ubuntu, Locale
-categories: "리눅스 기술문서"
+categories: "리눅스_기술문서"
 ---
+
 1. 일단 `locale` 명령어로 현재 locale을 확인한다.
 
 > 여러 줄이 나오고, 첫줄에 아래와 같이 한글로 되어 있다.
