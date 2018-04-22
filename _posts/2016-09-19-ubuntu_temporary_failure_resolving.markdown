@@ -4,7 +4,7 @@ title:  Ubuntu - Temporary failure resolving … 에러 해결방법
 date:   2016-09-19 05:57:23
 author: Tanji
 Tags: Ubuntu, apt-get, error
-categories: Ubuntu
+categories: 리눅스_기술문서
 ---
 
 Ubuntu에서 `apt-get`을 이용할 때 아래와 같이 Temporary failure resolving … 에러가 발생할 때가 있다. 이는 DNS 인식을 못 하는 문제로 임시로 사용 가능한 DNS server를 등록해주면 임시로 해결할 수 있다.

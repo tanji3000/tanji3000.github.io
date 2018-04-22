@@ -4,7 +4,7 @@ title:  "Ubuntu - USB 포맷 방법"
 date:   2016-10-17
 author: Tanji
 Tags:   Ubuntu, USB, Format
-categories: Ubuntu
+categories: 리눅스_기술문서
 ---
 
 Ubuntu에서 usb 포맷하는 방법을 정리해 본다.
