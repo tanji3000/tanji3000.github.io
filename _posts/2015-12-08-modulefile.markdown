@@ -4,7 +4,7 @@ title:  "Modules 기능 사용시 modulefile 인식 가능한 PATH 등록하기"
 date:   2015-12-08
 author: Tanji
 Tags: module, modulefile, path
-categories: Linux, Modules
+categories: 리눅스_기술문서
 ---
 
 
