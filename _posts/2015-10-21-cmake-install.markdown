@@ -4,7 +4,7 @@ title:  "cmake 설치하기"
 date:   2015-10-21
 author: Tanji
 Tags:   cmake, Linux
-categories: Linux
+categories: 리눅스_기술문서
 ---
 
 openbabel 설치를 하려고 하는데 cmake가 없다.

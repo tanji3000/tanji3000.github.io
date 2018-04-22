@@ -4,7 +4,7 @@ title:  "리눅스 에서 zip 파일 압축하기/압축풀기"
 date:   2015-07-10 20:03:23
 author: Tanji
 Tags:   Shell, zip, Linux
-categories: Linux
+categories: 리눅스_기술문서
 ---
 
 **압축하기**

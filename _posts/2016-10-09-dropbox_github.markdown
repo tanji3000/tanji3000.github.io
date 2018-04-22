@@ -4,7 +4,7 @@ title:  "Git 저장소 사용법 정리"
 date:   2016-10-09 19:14:00
 author: Tanji
 Tags:   Dropbox, Github, 사용법
-categories: Linux
+categories: 리눅스_기술문서
 ---
 
 dropbox를 github 저장소로 사용하는 방법을 정리해 놓은 blog이다. 아직도 github 저장소의 흐름을 정확히 이해하지 못했다. 나에겐 복잡하다.
