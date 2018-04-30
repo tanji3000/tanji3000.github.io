@@ -20,10 +20,4 @@ MacOS 사용할 때 유용한 환경설정
 8. Dock 가리기 설정
 
 
-```
-{% youtube 3lpNQxlOpxo %}
-```
-
-
-
 [![MacOS 기본설정](https://img.youtube.com/vi/3lpNQxlOpxo/0.jpg)](https://www.youtube.com/watch?v=3lpNQxlOpxo)
