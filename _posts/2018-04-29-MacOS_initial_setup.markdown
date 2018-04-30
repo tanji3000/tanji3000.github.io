@@ -19,4 +19,4 @@ MacOS 사용할 때 유용한 환경설정
 7. 매직마우스 보조 클릭 및 페이지 쓸어넘기기
 8. Dock 가리기 설정
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3lpNQxlOpxo" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/3lpNQxlOpxo" frameborder="0" allowfullscreen=""></iframe>
