@@ -21,3 +21,7 @@ MacOS 사용할 때 유용한 환경설정
 
 [![유투브]](https://youtu.be/3lpNQxlOpxo)
 
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=3lpNQxlOpxo&t=69s"></a>
+</div>
