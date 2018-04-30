@@ -427,6 +427,7 @@ pre code.hljs {
         }
 
       .embed-youtube iframe {   /*Lee*/
+            display: block;
             position: absolute;
             top: 0;
             left: 0;
