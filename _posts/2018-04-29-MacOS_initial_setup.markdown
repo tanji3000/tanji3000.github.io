@@ -21,4 +21,6 @@ MacOS 사용할 때 유용한 환경설정을 소개합니다.
 
 <U>Youtube - MacOS 처음 기본 설정</U>
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/3lpNQxlOpxo" frameborder="0" allowfullscreen=""></iframe>
+<div calss=youtube>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/3lpNQxlOpxo" frameborder="0" allowfullscreen=""></iframe>
+</div>
