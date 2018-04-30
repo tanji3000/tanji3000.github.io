@@ -10,10 +10,8 @@ categories: Mac
 MacOS 사용할 때 유용한 저만의 환경설정을 소개합니다.
 
 1. 트랙패드 - 한손가락으로 탭하여 선택하기
-1. 트랙패드 - 드래그 활성화
-
+1. 트랙패드 - 드래그 활성화  
    . 손쉬운 사용 > 마우스와 트랙패드 > 트랙패드 옵션 > 드래그 활성화 (체크)
-
 1. 키보드 반복속도
 1. 한영전환키 변경 (command + space)
 1. Spotlight 단축키 변경 (control + space)
@@ -24,4 +22,4 @@ MacOS 사용할 때 유용한 저만의 환경설정을 소개합니다.
 
 참고. Youtube - MacOS 처음 기본 설정
 
-<iframe width="100%" src="https://www.youtube.com/embed/3lpNQxlOpxo" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/3lpNQxlOpxo" frameborder="0" allowfullscreen=""></iframe>
