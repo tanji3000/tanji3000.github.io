@@ -23,6 +23,6 @@ MacOS 사용할 때 유용한 환경설정을 소개합니다.
 
 <!-- blank line -->
 <figure class="embed-youtube">
-<iframe width="100%" height="0" src="https://www.youtube.com/embed/3lpNQxlOpxo" frameborder="0" allowfullscreen="true"> </iframe>
+<iframe src="https://www.youtube.com/embed/3lpNQxlOpxo" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
