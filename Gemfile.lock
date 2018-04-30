@@ -57,6 +57,9 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    xml-simple (1.1.5)
+    youtube (0.8.6)
+      xml-simple (>= 1.0.9)
 
 PLATFORMS
   ruby
@@ -66,6 +69,7 @@ DEPENDENCIES
   jekyll-archives
   jekyll-paginate
   jekyll-sitemap
+  youtube
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
