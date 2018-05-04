@@ -4,7 +4,7 @@ title:  Ubuntu - predefs.h 파일 못찾을 때
 date:   2016-09-07 23:57:23
 author: Tanji
 Tags:   R, 설치, R-Studio
-categories: Ubuntu
+categories: 리눅스_기술문서
 ---
 
 ubuntu에 wulffman 설치시 아래와 같이 헤더 파일을 못찾는 경우가 있다. Ubuntu를 기본 서버 버전으로 설치하는 바람에 대부분의 패키지는 설치가 안된 것 같다.

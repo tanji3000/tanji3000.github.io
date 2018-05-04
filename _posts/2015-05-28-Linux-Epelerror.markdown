@@ -4,7 +4,7 @@ title:  "Linux에 Octave 설치"
 date:   2015-05-28 20:56:23
 author: Tanji
 Tags:   Octave, epel, repolist
-categories: Linux
+categories: 리눅스_기술문서
 ---
 
 

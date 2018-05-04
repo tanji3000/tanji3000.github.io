@@ -4,7 +4,7 @@ title:  vi editor 에서 창 나누어 보기
 date:   2015-06-18 20:03:23
 Tags: vi, split, 창나누기
 author: Tanji
-categories: Linux
+categories: 리눅스_기술문서
 ---
 
 
