@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "청주 리트리빈 카페"
-date: 2018-04-29 19:14:00
+date: 2018-05-21 15:19:00
 author: Tanji
-Tags:   MacOS, 환경설정
+Tags: 청주, 카페, 리트리빈
 categories: Mac
 ---
 
