@@ -4,7 +4,7 @@ title:  "청주 리트리빈 카페"
 date: 2018-05-21 15:19:00
 author: Tanji
 Tags: 청주, 카페, 리트리빈
-categories: Mac
+categories: Travel
 ---
 
 <figure class="full">
