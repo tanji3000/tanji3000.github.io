@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "R 특정 Column 삭제 방법"
-date: 2018-05-21 15:19:00
+date: 2018-07-01 21:19:00
 author: Tanji
-Tags: 청주, 카페, 리트리빈
-categories: Travel
+Tags: R, subset, column, remove, data frame
+categories: R
 ---
 
 특정 Language를 배울 때 내가 사용하면서 필요한 내용들을 하나하나 찾아가면서 학습하는 것이 가장 효율 적인 것 같습니다.   
