@@ -3,7 +3,7 @@ layout: post
 title:  "R 특정 Column 삭제 방법"
 date: 2018-07-01 21:19:00
 author: Tanji
-Tags: R, subset, column, remove, data frame
+Tags: R, subset, column, remove, "data frame"
 categories: R
 ---
 
