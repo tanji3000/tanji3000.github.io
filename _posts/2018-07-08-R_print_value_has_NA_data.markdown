@@ -69,7 +69,7 @@ score <- read.csv("Example_R_NA.csv", header=T)
 
 상황을 조금 바꾸어 이제 English 점수에 결측치가 있는 name을 추출을 해봅시다.
 
-```r
+```{r}
 > score[is.na(score$English),]
   id name Math English Physics
 3  3  Kim   76      NA      23
@@ -77,7 +77,7 @@ score <- read.csv("Example_R_NA.csv", header=T)
 
 이제 전체를 괄호로 묶은 후 가장 마지막에 `$name`이라고 붙여주면 이름을 출력해줍니다.
 
-```r
+```{r}
 (score[is.na(score$English),])$name
 [1] Kim
 Levels: Hwang Jung Kim Lee
@@ -85,7 +85,7 @@ Levels: Hwang Jung Kim Lee
 
 그런데 결과 Kim 뿐만 아니라 바로 아랫줄에 Levels: Hwang Jung Kim Lee라고 모두 표기가 되는 것 보이지죠? 기본적으로 텍스트를 포함한 Variable은 R에서 Factor로 간주하기 떄문입니다. 이럴 경우 Factor를 `as.charactor`라는 명령어를 이용해 Charactor 형태로 변경해 주면 됩니다.
 
-```r
+```{r}
 > as.character((score[is.na(score$English),])$name)
 [1] "Kim"
 ```
