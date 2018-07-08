@@ -27,13 +27,13 @@ R에서 결측치가 있는 항목을 다루는 방법은 정말 자주 필요�
 
 먼저 예제 파일을 다운로드 하여 R에 Data Frame 형태로 Import 해봅니다.
 
-```
+```r
 > getwd()
 [1] "/Users/david"
 ```
 현재 경로는 확인해보니 /Users/david 즉 제 홈디렉토리에 위치하고 있네요.
 
-```
+```r
 > setwd("~/Downloads")
 > getwd()
 [1] "/Users/david/Downloads"
@@ -43,7 +43,7 @@ R에서 결측치가 있는 항목을 다루는 방법은 정말 자주 필요�
 
 이제 다운로드 받은 예제 파일을 활용하시면 되고, 파일이 Downloads에 없다면 복사해 주시면 됩니다. 준비가 되었으면 `.csv` 파일을 import 해봅시다. `read.csv`라는 패키지를 사용합니다.
 
-```
+```r
 score <- read.csv("Example_R_NA.csv", header=T)
 ```
 파일이름 `example_R_NA.csv`를 `"(큰따옴표)`로 묶어줍니다. `header=T`는 id, name, Math, English, Physics가 있는 헤터를 불러와서 Variable 이름으로 만들어 줍니다.
@@ -53,7 +53,7 @@ score <- read.csv("Example_R_NA.csv", header=T)
 #### data.frame 결측치 확인하기
 먼저 우리가 저장한 score라는 data frame에 결측치가 있는지 확인해 봅니다.
 
-```
+```r
 > is.na(score)
         id  name  Math English Physics
 [1,] FALSE FALSE FALSE   FALSE   FALSE
@@ -69,7 +69,7 @@ score <- read.csv("Example_R_NA.csv", header=T)
 
 상황을 조금 바꾸어 이제 English 점수에 결측치가 있는 name을 추출을 해봅시다.
 
-```
+```r
 > score[is.na(score$English),]
   id name Math English Physics
 3  3  Kim   76      NA      23
@@ -77,7 +77,7 @@ score <- read.csv("Example_R_NA.csv", header=T)
 
 이제 전체를 괄호로 묶은 후 가장 마지막에 `$name`이라고 붙여주면 이름을 출력해줍니다.
 
-```
+```r
 (score[is.na(score$English),])$name
 [1] Kim
 Levels: Hwang Jung Kim Lee
@@ -85,7 +85,7 @@ Levels: Hwang Jung Kim Lee
 
 그런데 결과 Kim 뿐만 아니라 바로 아랫줄에 Levels: Hwang Jung Kim Lee라고 모두 표기가 되는 것 보이지죠? 기본적으로 텍스트를 포함한 Variable은 R에서 Factor로 간주하기 떄문입니다. 이럴 경우 Factor를 `as.charactor`라는 명령어를 이용해 Charactor 형태로 변경해 주면 됩니다.
 
-```
+```r
 > as.character((score[is.na(score$English),])$name)
 [1] "Kim"
 ```
