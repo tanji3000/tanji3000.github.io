@@ -46,6 +46,7 @@ df2
 |  2 | Kim  
 |  3 | Hwang  
 |  4 | Hong
+
 ```r
 id <- (1:4)
 name <- c("Jung", "Kim","Hwang","Hong")
