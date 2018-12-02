@@ -90,3 +90,8 @@ df1$check <- ifelse(df1$name %in% df2$name, "Yes", "No")
 오늘도 간단한 상황에서 데이터를 처리하는 방법에 대해 연습해 보았습니다. 아직 시작 단계에 계신 분들이라면, 해당 코드들을 복사에서 붙여 넣지 말고 직접 입력해보는 것을 권유드립니다.
 
 가장 빨리 배우는 방법은 직접 필요한 데이터를 처리해 보면서 막히는 부분을 공부하면서 해결하는 것입니다.
+
+
+### 참고
+이번 포스팅에 사용한 코드들 입니다. Rmd 형식이므로 다운로드 받아서 활용하시기 바랍니다.
+[Download](https://github.com/tanji3000/tanji3000.github.io/blob/master/_materials/R_study.Rmd)
