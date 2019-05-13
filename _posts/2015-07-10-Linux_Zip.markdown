@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "리눅스 에서 zip 파일 압축하기/압축풀기"
+date:   2015-07-10 20:03:23
+author: Tanji
+Tags:   Shell, zip, Linux
+categories: 리눅스_기술문서
+---
+
+**압축하기**
+<br>
+
+- 현재 디렉토리에 있는 모든 파일을 test.zip 으로 압축할 때
+    `zip test.zip ./*` <br>    
+    
+- 현재 디렉토리에 있는 모든 파일 및 하위폴더 까지 압축하려면 -r 옵션을 이용한다.
+    `zip -r test.zip ./*`<br>
+
+- 압축 풀기
+    `unzip test.zip`<br>
+    
+
